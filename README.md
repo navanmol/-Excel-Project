@@ -1,4 +1,4 @@
-# -Coffe Sales Dashboard Excel Project
+# -Coffee Sales Dashboard Excel Project
 
 
 we are analyzing coffee order data to find trends in sales over time and by different coffee bean types, sales, by country, and we can gain some insights into who our top customers are.
